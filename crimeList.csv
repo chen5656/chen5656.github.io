@@ -1,0 +1,86 @@
+ID,DATE,ADDRESS,CATEGORY
+0,10/11/2018,7100 Oaklawn Dr.,Continuous Sexual Abuse of a Child
+1,10/16/2018,2500 Quail Hollow Dr.,Hit and Run
+2,10/7/2018,8000 Woodbridge Pkwy.,Theft
+3,10/11/2018,8000 Woodbridge Pkwy.,Criminal Trespass Warning
+4,10/23/2018,8000 Woodbridge Pkwy.,Assault
+5,10/27/2018,8000 Woodbridge Pkwy.,Attempted Theft
+6,10/27/2018,8000 Woodbridge Pkwy.,Theft
+7,10/22/2018,7700 Cody Ln.,Motor Vehicle Theft
+8,10/30/2018,7700 Cody Ln.,Disturbance
+9,10/31/2018,7700 Cody Ln.,Identity Theft
+10,10/26/2018,8100 Fallbrook Dr.,Theft
+11,10/6/2018,5400 SH 78,DWI
+12,10/11/2018,6000 Dewitt St.,Disturbance
+13,10/16/2018,5400 Murphy Rd.,Unattended Death
+14,10/3/2018,2500 Herring Cir.,Criminal Trespass
+15,10/1/2018,5500 Summit Knoll Trl.,Safekeeping
+16,10/22/2018,5500 Summit Knoll Trl.,Vehicle Impound
+17,10/11/2018,7700 Park Hill Trl. ,Burglary - Motor Vehicle
+18,10/11/2018,7200 Park Hill Trl.,Burglary - Motor Vehicle
+19,10/12/2018,7200 Country Club Dr.,Burglary - Motor Vehicle
+20,10/19/2018,7400 Vista Hill Ln.,Found Property
+21,10/22/2018,7500 Summit Trail Ln.,Vehicle Impound
+22,10/10/2018,6100 Timbercrest Trl.,Identity Theft
+23,10/21/2018,6100 Field Crest Ln.,Assault
+24,10/27/2018,6200 Holly Crest Ln.,Assault
+25,10/19/2018,5200 SH 78,Hit and Run
+26,10/22/2018,4800 Bunker Hill Rd.,Hit and Run
+27,10/3/2018,7300 SH 78,Public Intoxication
+28,10/5/2018,4400 Sachse Rd.,CPS Referral
+29,10/9/2018,6200 Parkview Dr.,Disturbance
+30,10/11/2018,4300 Mallard Ln.,CPS Referral
+31,10/15/2018,4400 Williford Rd.,Harassment
+32,10/22/2018,7000 SH 78,Theft
+33,10/30/2018,6200 Parkridge Dr.,Found Property
+34,10/2/2018,3100 5th St.,Mental Illness Commitment
+35,10/4/2018,3900 Misouri,Disturbance
+36,10/9/2018,3800 Sachse Rd.,Sex Offender Registration
+37,10/9/2018,5000 West Creek Ln.,Sex Offender Registration
+38,10/12/2018,3900 Jewel St.,Disturbance
+39,10/17/2018,4100 Arizona St.,Found Property
+40,10/21/2018,5700 Billingsley St.,Burglary - Motor Vehicle
+41,10/22/2018,3600 6th St.,Criminal Mischief
+42,10/25/2018,5600 SH 78,Forgery
+43,10/8/2018,5600 SH 78,Burglary - Motor Vehicle
+44,10/6/2018,2300 Highridge Dr.,Mental Illness Commitment
+45,10/8/2018,5400 Lee Hutson Ln.,Disturbance
+46,10/9/2018,5200 SH 78,Assault
+47,10/11/2018,5100 SH 78,City Ordinance Violation
+48,10/12/2018,5000 SH 78,DWI
+49,10/17/2018,4100 Lee Hutson Ln.,Hit and Run
+50,10/18/2018,5500 Brookview Ct.,Fraud
+51,10/4/2018,3900 Miles Rd. ,Assault
+52,10/5/2018,3900 Miles Rd. ,Assault
+53,10/15/2018,3600 Annapolis Ct. ,Possession of Drug Paraphernalia
+54,10/27/2018,5200 SH 78,Hit and Run
+55,10/20/2018,3900 Miles Rd. ,Found Property
+56,10/22/2018,3900 Miles Rd. ,Debit Card Abuse
+57,10/15/2018,3700 Bunker Hill Rd.,Found Property
+58,10/22/2018,3700 Bunker Hill Rd.,DWI
+59,10/16/2018,5500 PGBT,Vehicle Impound
+60,10/19/2018,3400 Dogwood Ct.,Theft
+61,10/21/2018,3900 Hudson Dt.,Aggravated Assault
+62,10/29/2018,3600 Stampede,Preventing the Consequences of Theft
+63,10/1/2018,4300 Haverhill Ln.,Criminal Mischief
+64,10/3/2018,5200 Kerley Ln.,Found Property
+65,10/3/2018,4400 Haverhill Ln.,Assault
+66,10/5/2018,4500 Maple Shade Ln.,Burglary - Motor Vehicle
+67,10/21/2018,5400 Pinnacle Oak Dr.,Theft
+68,10/22/2018,4500 Watermeadow Dr.,Assault
+69,10/25/2018,4600 Haverhill Ln.,Runaway
+70,10/7/2018,5500 Oakride Cir.,Public Property Damage
+71,10/9/2018,4500 Aldridge Dr.,Identity Theft
+72,10/12/2018,6100 Ben Rd.,Theft
+73,10/24/2018,6400 Eastview Dr.,Possession of Drug Paraphernalia
+74,10/12/2018,6500 SH 78,Criminal Trespass Warning
+75,10/4/2018,6700 Murphy Rd.,Mental Illness Commitment
+76,10/16/2018,7100 Abiline Dr.,Criminal Trespass Warning
+77,10/16/2016,5600 Brookview Ct.,Burglary - Motor Vehicle
+78,10/5/2018,2800 Pleasant Valley Rd.,Criminal Mischief
+79,10/28/2018,3700 Remington Ct.,CPS Referral
+80,10/3/2018,4400 Hudson Dr.,Inappropriate Photography
+81,10/25/2018,4400 Hudson Dr.,Simple Assault
+82,10/29/2018,4400 Hudson Dr.,Assault by Threat
+83,10/5/2018,4400 Hudson Dr.,Mental Illness Commitment
+84,10/6/2018,4400 West Creek Ln.,Possession of a Controlled Substance
